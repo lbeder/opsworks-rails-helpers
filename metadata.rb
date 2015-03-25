@@ -1,0 +1,8 @@
+name             'opsworks_rails_helpers'
+maintainer       'Leonid Beder'
+maintainer_email 'leonid.beder@gmail.com'
+license          'All rights reserved'
+description      'Installs/Configures opsworks_rails_helpers'
+long_description 'Installs/Configures opsworks_rails_helpers'
+version          '0.1.0'
+depends           'magic_shell'
